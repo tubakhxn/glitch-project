@@ -1,4 +1,4 @@
-# Glitch Face Art (by tubakhxn)
+# Glitch Face Art 
 
 A real-time interactive computer vision art project using OpenCV. Control a glitch effect on your webcam feed with hand gestures—no deep learning required!
 
@@ -31,3 +31,4 @@ A real-time interactive computer vision art project using OpenCV. Control a glit
 
 ---
 **For experimental art, live visuals, and creative webcam effects.**
+
